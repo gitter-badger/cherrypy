@@ -14,3 +14,5 @@
   Or to run individual tests type:
 
     nosetests -s test_foo.py
+
+Join the chat at https://gitter.im/cherrypy/cherrypy
